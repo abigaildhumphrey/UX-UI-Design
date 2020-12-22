@@ -1,0 +1,26 @@
+/*
+h1 { 
+    font-family: Arial, Helvetica, Arial, sans-serif;
+}
+*/
+
+.modern { 
+    font-family: 'Helvetica', sans-serif;
+}
+
+.goofy {
+    font-family: 'Comic Sans MS';
+}
+
+.prof {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.oldfash { 
+    font-family: 'Courier New', Courier, monospace
+}
+
+.artsy { 
+    font-family: 'Luminari', Arial, Helvetica, sans-serif;
+}
