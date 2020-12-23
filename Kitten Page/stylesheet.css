@@ -1,0 +1,51 @@
+body {
+    color: #59261B;
+}
+
+.kitty { 
+    position: fixed;
+    bottom: 0px;
+    right: 2px;
+}
+
+
+
+button {
+    background-color: #A66A6A;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    outline: #D9AB91;
+    position: fixed;
+    bottom: 410px;
+
+  }
+
+  button:hover {
+      background-color: #F2C8C4;
+  }
+
+  h1 {
+    font-family: 'Vollkorn', regular;
+    font-size: 60px;
+    font-weight: 200;
+    color: #D9AB91;
+  }
+
+  p{ 
+      font-family: 'Crimson Text';
+      font-size: 24px;
+      position: fixed;
+      right: 20px;
+      left: 20px;
+  }
+
+  footer { 
+      position: fixed;
+      bottom: 10px;
+      color: #D9AB91;
+  }
