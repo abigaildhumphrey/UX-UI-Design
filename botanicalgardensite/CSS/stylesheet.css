@@ -1,0 +1,393 @@
+/*.body { /*site in ps
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  z-index: 49;
+}*/
+
+
+/* -------------------- HEADER START  --------------------*/
+
+.Header_Base {
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(250, 126, 70);
+  position: fixed;
+  left: 0vw;
+  top: 0vh;
+  width: 100%;
+  height: 15vh;
+  z-index: 1;
+}
+
+
+
+.MainTitle {
+  font-size: 2.1vh;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 0.9;
+  position: relative;
+  left: 1vw;
+  top: 2.1vh;
+  z-index: 47;
+}
+.Menu_ {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 1610px;
+  z-index: 46;
+}
+.SHOP {
+  font-size: 12px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.25;
+  text-align: right;
+  position: relative;
+  left: 1070.718px;
+  top: 47px;
+  z-index: 45;
+}
+.Blog {
+  font-size: 12px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.25;
+  text-align: right;
+  position: relative;
+  left: 1143.031px;
+  top: 47px;
+  z-index: 44;
+}
+.CART__0_ {
+  font-size: 12px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.25;
+  text-align: right;
+  position: relative;
+  left: 1215.532px;
+  top: 73.709px;
+  z-index: 43;
+}
+.LOGIN {
+  font-size: 12px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.25;
+  text-align: right;
+  position: relative;
+  left: 1317.031px;
+  top: 47px;
+  z-index: 42;
+}
+
+
+/* -------------------- HEADER END  --------------------*/
+/* */
+/* */
+/* */
+/* */
+/* */
+/* -------------------- HERO START  --------------------*/
+
+ /*   .herofolder {
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 1610px;
+}*/
+
+body { 
+    margin: 0;
+    padding: 0;
+}
+  .heroimage{
+    background-image: url("../images/banner.png");
+    background-size: cover;
+    top: 5vw;
+    height:51vw;
+    position: relative;
+  }
+
+  .textbackground{
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    opacity: 0.569;
+    position: relative;
+    top: 22vw;
+    left: 20vw;
+    width: 60vw;
+    height: 18vw;
+  }
+
+  .herotext {
+    font-size: 0.9vw;
+    font-family: "Abril Text", light, sans-serif;
+    letter-spacing: 0.9vw;
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+    text-align: center;
+    position: relative;
+    left: 0vw;
+    top: 5vw;
+    
+  }
+
+    
+  /* -------------------- HERO END  --------------------*/
+/* */
+/* */
+/* */
+/* */
+/* */
+/* -------------------- POSTS START  --------------------*/
+/*
+.Products {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 1610px;
+  z-index: 38;
+}
+*/
+
+/*.ImageSetRight {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 1610px;
+  z-index: 37;
+}
+*/
+/*
+.PRight {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb(102, 102, 102);
+  line-height: 1.875;
+  text-align: right;
+  position: absolute;
+  left: 490.456px;
+  top: 1009.768px;
+  width: 408px;
+  height: 135px;
+  z-index: 36;
+}
+.H1_Right {
+  font-size: 30px;
+  color: black;
+  font-family: "Lato";
+  text-transform: uppercase;
+  line-height: 0.8;
+  text-align: right;
+  position: absolute;
+  left: 746.89px;
+  top: 937.5px;
+  z-index: 35;
+}*/
+.RightImgGroup {
+  position: relative;
+  top: 10vw;
+  left: 87vw;
+  width: 80vw;
+  height:20vw;
+}
+
+.Base {
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 217, 72);
+  position: absolute;
+  left: 10px;
+  top: 100px;
+  width: 50px;
+  height: 50px;
+  z-index: 31;
+}
+.Layer_2 {
+  background-image: url("../images/imgright.png");
+  position: absolute;
+  top: 0px;
+  right:0px;
+  width: 428px;
+  height: 549px;
+  z-index: 29;
+}
+.IMG {
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 217, 72);
+  box-shadow: 0px 40px 50px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 915px;
+  top: 855px;
+  width: 428px;
+  height: 528px;
+  
+}
+
+
+
+.ImageSetLeft {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 1610px;
+  z-index: 25;
+}
+.PLeft {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb(102, 102, 102);
+  line-height: 1.875;
+  position: absolute;
+  left: 488.484px;
+  top: 1296.768px;
+  width: 409px;
+  height: 135px;
+  z-index: 24;
+}
+.H2_Left {
+  font-size: 30px;
+  font-family: "Lato";
+  text-transform: uppercase;
+  line-height: 0.8;
+  position: absolute;
+  left: 487.891px;
+  top: 1232.5px;
+  z-index: 23;
+}
+.LeftImgGroup {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 1610px;
+  z-index: 22;
+}
+.Left_Arrow {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 1610px;
+  z-index: 21;
+}
+.Arrow {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 16px;
+  top: 933px;
+  width: 18px;
+  height: 11px;
+  z-index: 20;
+}
+.Base {
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 217, 72);
+  position: absolute;
+  left: -1px;
+  top: 912px;
+  width: 50px;
+  height: 50px;
+  z-index: 19;
+}
+.Layer_3 {
+  background-image: url("Layer 3.png");
+  position: absolute;
+  left: 37px;
+  top: 883px;
+  width: 428px;
+  height: 548px;
+  z-index: 17;
+}
+.IMG {
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 217, 72);
+  box-shadow: 0px 40px 50px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 6px;
+  top: 851px;
+  width: 428px;
+  height: 528px;
+  z-index: 16;
+}
+
+/* -------------------- POSTS END  --------------------*/
+/* */
+/* */
+/* */
+/* */
+/* */
+/* -------------------- FOOTER START  --------------------*/
+/*
+.Footer {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1400px;
+  height: 1610px;
+  z-index: 12;
+}
+.Continue {
+  font-family: "Lato";
+  color: rgb(179, 179, 179);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 633.531px;
+  top: 1542.662px;
+  z-index: 11;
+}
+.Base {
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    left: 0px;
+    top: 1517px;
+    width: 1400px;
+    height: 50px;
+    z-index: 10;
+  }
+  .Base {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 0px;
+    top: 805px;
+    width: 1424px;
+    height: 1310px;
+    z-index: 8;
+  }
+
+/* -------------------- FOOTER END  --------------------*/
+/* */
+/* */
+/* */
+/* */
+/* */
